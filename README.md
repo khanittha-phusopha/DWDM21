@@ -1,5 +1,4 @@
 # DWDM21
-Data Warehouse &amp; Data Mining 2021
 Data Warehouse & Data Mining 2021
 
 ขนิษฐา ภูโสภา 623021042-5
