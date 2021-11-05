@@ -41,7 +41,7 @@ Group name Natasha Romanoff
 
     * สรุป (Summary)
 
-* บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี2ส่วน ส่วนที่1 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb 
+* บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี 4 ไฟล์ ลิ้งค์ที่1 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb 
   * Basic Python
     -Casting int() str()
     
@@ -54,5 +54,24 @@ Group name Natasha Romanoff
     -Condition
     
     -Function
+ลิ้งค์ที่2 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
+ * Plot Data
+ 
+  # Besic Data
+ 
+  # การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+ 
+  # Boxplot
+ 
+  # Time Series Plot
+ 
+* Visualizetion
+ 
+  # Scatter plot
 
+  # Plot
+  
+  # Bar chart
+
+  # Histogram
 
