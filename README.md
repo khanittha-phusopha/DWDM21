@@ -19,7 +19,7 @@ Group name Natasha Romanoff
 
 วิชา Data Mining and Data Warehouse
 
-* บทที่ 1 การบ้าน01.pdf ประกอบด้วยหัวข้อ ดังนี้
+* บทที่ 1 https://github.com/khanittha-phusopha/DWDM21/blob/77058f79132246560986945ab398cd0b14a8a920/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%9901.pdfประกอบด้วยหัวข้อ ดังนี้
 
    * ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
 
