@@ -44,10 +44,15 @@ Group name Natasha Romanoff
 * บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี2ส่วน ส่วนที่1 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb 
   * Basic Python
     -Casting int() str()
+    
     -Data Structure list()
+    
     -list วิธีการสร้าง , การชี้ค่า
+    
     -Loop
+    
     -Condition
+    
     -Function
 
 
