@@ -19,9 +19,9 @@ Group name Natasha Romanoff
 
 วิชา Data Mining and Data Warehouse
 
-*บทที่ 1 Introduction ประกอบด้วยหัวข้อ ดังนี้
+* บทที่ 1 Introduction ประกอบด้วยหัวข้อ ดังนี้
 
-ทำไมต้องทำเหมืองข้อมูล (Why Data Mining?)
+ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
 อะไรคือเหมืองข้อมูล (What Is Data Mining?)
 มุมมองหลายมิติของเหมืองข้อมูล (A Multi-Dimensional View of Data Mining)
 สามารถขุดเเหมืองข้อมูลที่ไหนได้บ้าง (What Kinds of Data Can Be Mined?)
