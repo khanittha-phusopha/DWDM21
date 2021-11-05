@@ -21,7 +21,7 @@ Group name Natasha Romanoff
 
 * บทที่ 1 Introduction ประกอบด้วยหัวข้อ ดังนี้
 
-  ** ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
+   * ทำไมต้องมีการทำเหมืองข้อมูล (Why Data Mining?)
 
   ** อะไรคือเหมืองข้อมูล (What Is Data Mining?)
 
