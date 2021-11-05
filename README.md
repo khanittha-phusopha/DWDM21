@@ -41,13 +41,14 @@ Group name Natasha Romanoff
 
    * สรุป (Summary)
 
-* บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี 4 ไฟล์ ลิ้งค์ที่1 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb 
-   * Basic Python
-      -Casting int() str()
+* บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี 4 ไฟล์ 
+   * Basic Python https://github.com/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb
+   
+      -Casting (int(),str())
     
-      -Data Structure list()
+      -Data Structure (list())
     
-      -list วิธีการสร้าง , การชี้ค่า
+      -list (วิธีการสร้าง,การชี้ค่า)
     
       -Loop
     
@@ -55,25 +56,29 @@ Group name Natasha Romanoff
     
       -Function
     
-  ลิ้งค์ที่2 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
-
-   * Plot Data
+    * Plot Data  https://github.com/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
     
-     -Besic Data
+      -Besic Data
  
-     -การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+      -การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
  
-     -Boxplot
+      -Boxplot
  
-     -Time Series Plot
+      -Time Series Plot
  
-   * Visualizetion
- 
-     -Scatter plot
+    * Visualizetion https://github.com/khanittha-phusopha/DWDM21/blob/main/Data_Visualizetion.ipynb
+    
+      -Scatter plot (กำหนดขนาด,กำหนดสี,marker,alpha)
 
-     -Plot
+      -Plot (quizกลุ่ม)
   
-     -Bar chart
+      -Bar chart (grouped,stacked)
 
-     -Histogram
+      -Histogram
+      
+    * Distance Numpy https://github.com/khanittha-phusopha/DWDM21/blob/main/Distance_numply.ipynb
+   
+      -Numpy Array (Indexing & Slicing,Useful functions,วนลูป,Quiz กลุ่ม)
+     
+      -Distance Matrix (Euclidean Distance (L2-norm),Distance function,Manhattan Distance (L1-norm))  
 
