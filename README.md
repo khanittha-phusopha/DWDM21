@@ -39,41 +39,41 @@ Group name Natasha Romanoff
 
    * ประวัติความเป็นมา(A Brief History of Data Mining and Data Mining Society)
 
-    * สรุป (Summary)
+   * สรุป (Summary)
 
 * บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี 4 ไฟล์ ลิ้งค์ที่1 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb 
-  * Basic Python
-    -Casting int() str()
+   * Basic Python
+      -Casting int() str()
     
-    -Data Structure list()
+      -Data Structure list()
     
-    -list วิธีการสร้าง , การชี้ค่า
+      -list วิธีการสร้าง , การชี้ค่า
     
-    -Loop
+      -Loop
     
-    -Condition
+      -Condition
     
-    -Function
+      -Function
     
 ลิ้งค์ที่2 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
 
-    * Plot Data
+   * Plot Data
     
-    - Besic Data
+     - Besic Data
  
-    - การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+     - การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
  
-    - Boxplot
+     - Boxplot
  
-    - Time Series Plot
+     - Time Series Plot
  
    * Visualizetion
  
-    - Scatter plot
+     - Scatter plot
 
-    - Plot
+     - Plot
   
-    - Bar chart
+     - Bar chart
 
-    - Histogram
+     - Histogram
 
