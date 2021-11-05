@@ -55,25 +55,25 @@ Group name Natasha Romanoff
     
       -Function
     
-ลิ้งค์ที่2 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
+  ลิ้งค์ที่2 https://colab.research.google.com/github/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
 
    * Plot Data
     
-     - Besic Data
+     -Besic Data
  
-     - การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+     -การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
  
-     - Boxplot
+     -Boxplot
  
-     - Time Series Plot
+     -Time Series Plot
  
    * Visualizetion
  
-     - Scatter plot
+     -Scatter plot
 
-     - Plot
+     -Plot
   
-     - Bar chart
+     -Bar chart
 
-     - Histogram
+     -Histogram
 
