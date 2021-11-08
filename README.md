@@ -42,55 +42,116 @@ Group name Natasha Romanoff
    * สรุป (Summary)
 
 * บทที่ 2 Getting to Know Your Data ประกอบด้วยหัวข้อ ดังนี้ มี 4 ไฟล์ 
+
    * Basic Python https://github.com/khanittha-phusopha/DWDM21/blob/main/Data101(Chapter2).ipynb
    
-      -Casting (int(),str())
+      ▣ Casting 
+        
+          ◾ int(),str()
     
-      -Data Structure (list())
+      ▣ Data Structure 
+       
+          ◾ list()
     
-      -list (วิธีการสร้าง,การชี้ค่า)
+      ▣ list 
+      
+          ◾ วิธีการสร้าง
+        
+          ◾ การชี้ค่า
     
-      -Loop
+      ▣ Loop
     
-      -Condition
+      ▣ Condition
     
-      -Function
+      ▣ Function
     
     * Plot Data  https://github.com/khanittha-phusopha/DWDM21/blob/main/Data102(Chapter2).ipynb
     
-      -Besic Data
+      ▣ Besic Data
  
-      -การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
+      ▣ การตรวจสอบตารางข้อมูลโดยใช้ .head()&.tail()
  
-      -Boxplot
+      ▣ Boxplot
  
-      -Time Series Plot
+      ▣ Time Series Plot
  
     * Visualizetion https://github.com/khanittha-phusopha/DWDM21/blob/main/Data_Visualizetion.ipynb
     
-      -Scatter plot (กำหนดขนาด,กำหนดสี,marker,alpha)
+      ▣ Scatter plot 
+      
+          ◾ กำหนดขนาด
+        
+          ◾ กำหนดสี
+       
+          ◾ marker
+        
+          ◾ alpha
 
-      -Plot (quizกลุ่ม)
+      ▣ Plot 
+      
+          ◾ quizกลุ่ม
   
-      -Bar chart (grouped,stacked)
+      ▣ Bar chart 
+      
+          ◾ grouped,stacked
 
-      -Histogram
+      ▣ Histogram
       
     * Distance Numpy https://github.com/khanittha-phusopha/DWDM21/blob/main/Distance_numply.ipynb
    
-      -Numpy Array (Indexing & Slicing,Useful functions,วนลูป,Quiz กลุ่ม)
+      ▣ Numpy Array 
+      
+          ◾ Indexing & Slicing
+          
+          ◾ Useful functions
+          
+          ◾ วนลูป 
+          
+          ◾ Quiz กลุ่ม
      
-      -Distance Matrix (Euclidean Distance (L2-norm),Distance function,Manhattan Distance (L1-norm))  
+      ▣ Distance Matrix 
+      
+          ◾ Euclidean Distance (L2-norm) 
+        
+          ◾ Distance function
+        
+          ◾ Manhattan Distance (L1-norm)  
       
 * บทที่3 https://github.com/khanittha-phusopha/DWDM21/blob/main/Data%20Preprocessing(Chapter%203).ipynb  มีหัวข้อดังนี้
+
      * Meta Data 
      * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
           
-      -ชี้ข้อมูลในตาราง
+      ▣ ชี้ข้อมูลในตาราง
              
-         1. ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+          ◾ ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+          
+          ◾ ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
+
+      ▣  Missing Value
+       
+          ◾ วิธีกำจัด Missing
+          
+          ◾ Quiz3 หาว่าการทำ dropna() ทำให้ข้อมูลหายไปกี่ %
+          
+          ◾ Handle Missing Value 1.5 (ลบค่า Missing เฉพาะใน column ที่เราสนใจ)
+          
+          ◾ Quiz 3.1 ให้ หาว่า การทำ .dropna() แบบเลือก drop ทำให้ข้อมูลหายกี่ %
+        
+             □ Handle Missing Value 2
              
-         2. ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
+             □ Handle Missing Value 3 (แทนด้วย class ใหม่ (ค่าที่เหมาะสม))
+             
+             □ Handling Missing Value 4 (แทนด้วยค่ากลาง)
+             
+             □ Handling Missing Value 5 (แทนด้วย column ใกล้เคียง)
+           
+      ▣ PANDA
+      
+        ◾ Select data by values [PD]
+        
+        ◾ เราใช้ & (and) และ | (or) ในการรวม list ของ boolean
+         
       
     
 
