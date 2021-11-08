@@ -82,8 +82,7 @@ Group name Natasha Romanoff
      
       -Distance Matrix (Euclidean Distance (L2-norm),Distance function,Manhattan Distance (L1-norm))  
       
-  * บทที่3 https://github.com/khanittha-phusopha/DWDM21/blob/main/Data%20Preprocessing(Chapter%203).ipynb  มีหัวข้อดังนี้
-  
+* บทที่3 https://github.com/khanittha-phusopha/DWDM21/blob/main/Data%20Preprocessing(Chapter%203).ipynb  มีหัวข้อดังนี้
    * Meta Data 
    * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
     * ชี้ข้อมูลในตาราง
