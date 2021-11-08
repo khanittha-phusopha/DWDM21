@@ -85,9 +85,12 @@ Group name Natasha Romanoff
 * บทที่3 https://github.com/khanittha-phusopha/DWDM21/blob/main/Data%20Preprocessing(Chapter%203).ipynb  มีหัวข้อดังนี้
      * Meta Data 
      * การจัดการข้อมูลในตารางก่อนนำไปวิเคราะห์
-           * ชี้ข้อมูลในตาราง
-              1. ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
-              2. ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
+          
+      -ชี้ข้อมูลในตาราง
+             
+         1. ชี้แบบธรรมดา ใช้ [ชื่อ column][index]
+             
+         2. ชี้แบบ .iloc[] (มองข้อมูลเป็น metrix)
       
     
 
