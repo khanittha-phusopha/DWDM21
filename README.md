@@ -81,4 +81,8 @@ Group name Natasha Romanoff
       -Numpy Array (Indexing & Slicing,Useful functions,วนลูป,Quiz กลุ่ม)
      
       -Distance Matrix (Euclidean Distance (L2-norm),Distance function,Manhattan Distance (L1-norm))  
+      
+  * บทที่3 https://github.com/khanittha-phusopha/DWDM21/blob/main/Data%20Preprocessing(Chapter%203).ipynb  มีหัวข้อดังนี้
+      
+    
 
