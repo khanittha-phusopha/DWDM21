@@ -3,7 +3,7 @@ Data Warehouse & Data Mining 2021
 
 ขนิษฐา ภูโสภา 623021042-5
 
-Group name Natasha Romanoff
+**Group name Natasha Romanoff**
 
 1 จิตติยา ศิริธรรมจักร 623021043-3
 
