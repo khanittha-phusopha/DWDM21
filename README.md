@@ -175,7 +175,7 @@ Group name Natasha Romanoff
    
   * สไลด์ประกอบการเรียน https://github.com/khanittha-phusopha/DWDM21/blob/main/Chapter8.pdf
 
-* Project กลุ่ม https://github.com/khanittha-phusopha/DWDM21/blob/main/Project.ipynb
+* Project กลุ่ม Natasha https://github.com/khanittha-phusopha/DWDM21/blob/main/Project.ipynb
 
   * สไลด์นำเสนอ https://github.com/khanittha-phusopha/DWDM21/blob/main/Project.pdf
     
